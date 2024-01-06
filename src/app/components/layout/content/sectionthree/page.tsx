@@ -16,7 +16,7 @@ export default function SectionThree () {
                     </p>
                     <Image src="relevans.svg" width={150} height={150} alt="" className="m-auto" />
                 </div>
-                <div className="mb-8 mx-4 basis-1/3 bg-blue-200 p-10 rounded-2xl">
+                <div className="mb-8 mx-4 basis-1/3 bg-purple-500 p-10 rounded-2xl">
                     <h2 className="text-2xl md:text-4xl font-bold">Focus</h2>
                     <p className="py-10">
                     It may sound harsh but your prospective customers don not have time to read, they do not care who you are or why you have the philosophies you have. They just want to know how you can influence their business and solve their problems. </p>

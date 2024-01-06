@@ -4,7 +4,7 @@ import Link from "next/link"
 export default function SectionSix () {
   return (
     <>
-    <div className="bg-blue-300 px-10 ">
+    <div className="bg-purple-300 px-10 ">
         <h1 className="text-xl text-center py-4 px-4 md:text-6xl md:pb-20 md:px-20">
         That way you get an optimized e-commerce with a higher conversion rate and ROAS
         </h1>
@@ -16,7 +16,7 @@ export default function SectionSix () {
                     </p>
                     <Image src="relevans.svg" width={150} height={150} alt="" className="m-auto" />
                 </div>
-                <div className="mb-8 mx-4 basis-1/3 bg-blue-200 p-10 rounded-2xl">
+                <div className="mb-8 mx-4 basis-1/3 bg-purple-500 p-10 rounded-2xl">
                     <h2 className="text-2xl md:text-4xl font-bold">Purchase trip</h2>
                     <p className="py-10">
                     Today, customers make their entire buying journey online and there is great potential to influence potential buyers early in their buying journey. With well-thought-out design that is adapted to your target group and by using the latest conversion strategies, you can reach new heights in your e-commerce journey.
