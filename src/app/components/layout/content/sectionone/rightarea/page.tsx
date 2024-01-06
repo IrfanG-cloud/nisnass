@@ -4,7 +4,7 @@ export default function Right(){
  
     return (
         <div className="md:w-1/2">
-            <h1 className="text-4xl font-bold">En ganska ocool webbyrå i Stockholm</h1>
+            <h1 className="text-4xl font-bold">A rather uncool web agency in Stockholm</h1>
             <div className="flex mt-10">
                 <div className="w-1/2">
                     <p>
