@@ -7,6 +7,7 @@ export default function Projects () {
         <div>
         <Image src="/galax1.png" width={1200} height={300} alt="" />
         </div>
+        <h1>hello</h1>
     </div>
     </>
   )
