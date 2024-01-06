@@ -11,7 +11,7 @@ export default function Hero () {
             <p className="text-4xl py-10">
             NisNass, a distinguished web design and development company based in Dubai.
             </p>
-            <div className="flex">
+            <div className="md:flex">
                 <div>
                     <button className="bg-[#531D60] text-white px-4 py-1 md:py-3 md:px-8 border border-[#531D60] hover:border-transparent rounded-full ">
                         <Link href='/'> Read More</Link>
