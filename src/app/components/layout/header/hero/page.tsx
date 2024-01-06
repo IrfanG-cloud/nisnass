@@ -5,7 +5,7 @@ export default function Hero () {
   return (
     <div className="md:flex md:justify-around">
         <div className="px-10 py-20">
-            <h1 className="text-6xl md:text-7xl">
+            <h1 className="text-2xl md:text-6xl">
                 Web Design & Development Company
             </h1>
             <p className="text-4xl py-10">
