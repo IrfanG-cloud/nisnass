@@ -17,9 +17,9 @@ export default function SectionFive (){
         <Link href="/" >
         <Image src="/Maze.png" width={600} height={400} alt="" className="pb-10"/>
         </Link>
-        <p>Phone Credit</p>
-        <h1 className="text-4xl font-bold my-4">New website & Identity</h1>
-        <p>Web design & development, identity & Art Direction</p>
+        <p>Maze</p>
+        <h1 className="text-4xl font-bold my-4">New multinational website</h1>
+        <p>Web design & development, strategy & marketing</p>
         </div>
       </div>
 
