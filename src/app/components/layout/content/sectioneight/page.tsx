@@ -5,7 +5,7 @@ export default function SectionEight (){
  
   return (
     <div className="px-10 pt-10 pb-20">
-        <div className="">
+        <div>
             <h1 className="md:text-4xl md:font-bold ">All the tools in the toolbox to increase your sales (at market risk)</h1>
         </div>
         <div className="md:flex md:justify-between ">
@@ -65,7 +65,7 @@ export default function SectionEight (){
                         <li className="pb-2">- Marketing plan</li>
                         <li className="pb-2">- Branding Guidelines</li>
                         <li className="pb-2">- Tonality guide</li>
-                        <li className="pb-2">- Target group strategy (personas)</li>
+                        <li className="pb-2">- Target group strategy</li>
                         <li className="pb-2">- Buyer journey</li>
                         <li className="pb-2">- Campaign concept</li>
                         <li>- Project management</li>
