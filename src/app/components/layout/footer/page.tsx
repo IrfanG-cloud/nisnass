@@ -13,7 +13,7 @@ export default function Footer(){
                 </div>
             </div>
             <div className="md:flex pt-10">
-                <div className="w-1/2">
+                <div className="md:w-1/2">
                 <Image src="/final_logo.svg" width={200} height={200} alt="" />
                 <p className="py-10">
                 We are a full-service web agency / digital agency in Dubai that helps companies with digital marketing and by developing fast and converting websites and homepages in WordPress.
@@ -22,7 +22,7 @@ We are data and results driven and advocate building long-term value through mea
                 </p>
                 <h1 className="text-2xl font-bold">in</h1>
                 </div>
-                <div className="w-1/2">
+                <div className="md:w-1/2">
                     <div>
                     <h1 className="text-4xl">Web Development & Design company Nisnass</h1>
                     <div className="pt-10"><span>Galax (Great Nash AB)</span></div>
