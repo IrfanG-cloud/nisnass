@@ -13,12 +13,12 @@ export default function Hero () {
             </p>
             <div className="flex">
                 <div>
-                    <button className="bg-[#531D60] text-white py-3 px-8 border border-[#531D60] hover:border-transparent rounded-full ">
+                    <button className="bg-[#531D60] text-white px-4 py-1 md:py-3 md:px-8 border border-[#531D60] hover:border-transparent rounded-full ">
                         <Link href='/'> Read More</Link>
                     </button>
                 </div>
                 <div>
-                <button className="bg-transparent hover:bg-[#531D60]  py-3 px-8  text-[#531D60] hover:text-white py-2 px-4 border border-[#531D60] hover:border-transparent rounded-full ml-6">
+                <button className="bg-transparent hover:bg-[#531D60] md:py-3 md:px-8  text-[#531D60] hover:text-white py-2 px-4 border border-[#531D60] hover:border-transparent rounded-full ml-6">
                     <Link href='/'> Contact Us</Link>
                 </button>
                 </div>
