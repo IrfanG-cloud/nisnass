@@ -6,7 +6,7 @@ export default function SectionThree () {
     <>
     <div className="bg-gradient-to-b from-yellow-50 to-gray-100 px-10 py-20 ">
         <h1 className="text-2xl text-center py-4 px-4 md:text-6xl md:pb-20 md:px-20">
-            Here's how science-based design can help you get more customers
+            Here is how science-based design can help you get more customers
         </h1>
         <div className="md:flex">
                 <div className="mb-8 mx-4 basis-1/3 bg-white p-10 rounded-2xl">
@@ -19,7 +19,7 @@ export default function SectionThree () {
                 <div className="mb-8 mx-4 basis-1/3 bg-blue-200 p-10 rounded-2xl">
                     <h2 className="text-4xl font-bold">Focus</h2>
                     <p className="py-10">
-                    It may sound harsh but your prospective customers don't have time to read, they don't care who you are or why you have the philosophies you have. They just want to know how you can influence their business and solve their problems. </p>
+                    It may sound harsh but your prospective customers don not have time to read, they do not care who you are or why you have the philosophies you have. They just want to know how you can influence their business and solve their problems. </p>
                     <Image src="kund.svg" width={250} height={250} alt="" />
                 </div>
                 <div className="mb-8 mx-4 basis-1/3 bg-yellow-200 p-10 rounded-2xl">

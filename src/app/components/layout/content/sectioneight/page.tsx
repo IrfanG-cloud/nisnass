@@ -66,7 +66,7 @@ export default function SectionEight (){
                         <li className="pb-2">- Branding Guidelines</li>
                         <li className="pb-2">- Tonality guide</li>
                         <li className="pb-2">- Target group strategy (personas)</li>
-                        <li className="pb-2">- Buyer's journey</li>
+                        <li className="pb-2">- Buyer journey</li>
                         <li className="pb-2">- Campaign concept</li>
                         <li>- Project management</li>
                     </ul>
