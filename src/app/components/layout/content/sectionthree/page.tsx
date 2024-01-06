@@ -10,20 +10,20 @@ export default function SectionThree () {
         </h1>
         <div className="md:flex">
                 <div className="mb-8 mx-4 basis-1/3 bg-white p-10 rounded-2xl">
-                    <h2 className="text-4xl font-bold">Relevance</h2>
+                    <h2 className="text-2xl md:text-4xl font-bold">Relevance</h2>
                     <p className="py-10">
                     Today you are only a google away. But how do you convince your visitors that you are the solution they are looking for? Visual relevance is a must to make the visits stay.
                     </p>
                     <Image src="relevans.svg" width={150} height={150} alt="" className="m-auto" />
                 </div>
                 <div className="mb-8 mx-4 basis-1/3 bg-blue-200 p-10 rounded-2xl">
-                    <h2 className="text-4xl font-bold">Focus</h2>
+                    <h2 className="text-2xl md:text-4xl font-bold">Focus</h2>
                     <p className="py-10">
                     It may sound harsh but your prospective customers don not have time to read, they do not care who you are or why you have the philosophies you have. They just want to know how you can influence their business and solve their problems. </p>
                     <Image src="kund.svg" width={250} height={250} alt="" />
                 </div>
                 <div className="mb-8 mx-4 basis-1/3 bg-yellow-200 p-10 rounded-2xl">
-                    <h2 className="text-4xl font-bold">Right Guide</h2>
+                    <h2 className="text-2xl md:text-4xl font-bold">Right Guide</h2>
                     <p className="py-10">
                     Why have they ended up on your side? What problems do they have and what are they trying to solve? With the right buying journey, where all the content on your page exists solely to help your visitors achieve their goals, you have reached a first step towards a better converting website.                    </p>
                     <Image src="guida-ratt.svg" width={300} height={300} alt="" />

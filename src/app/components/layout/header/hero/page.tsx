@@ -11,14 +11,14 @@ export default function Hero () {
             <p className="text-2xl md:text-4xl py-10">
             NisNass, a distinguished web design and development company based in Dubai.
             </p>
-            <div className="flex">
+            <div className="md:flex">
                 <div>
                     <button className="bg-[#531D60] text-white py-3 px-8 border border-[#531D60] hover:border-transparent rounded-full ">
                         <Link href='/'> Read More</Link>
                     </button>
                 </div>
-                <div>
-                <button className="bg-transparent hover:bg-[#531D60] py-3 px-8 text-[#531D60] hover:text-white border border-[#531D60] hover:border-transparent rounded-full ml-6">
+                <div className="mt-4 md:mt-0">
+                <button className="bg-transparent hover:bg-[#531D60] py-3 px-8 text-[#531D60] hover:text-white border border-[#531D60] hover:border-transparent rounded-full md:ml-6">
                     <Link href='/'> Contact Us</Link>
                 </button>
                 </div>
