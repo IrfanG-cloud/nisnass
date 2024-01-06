@@ -3,7 +3,7 @@ import Image from "next/image"
 
 export default function Hero () {
   return (
-    <div className="flex md:justify-around">
+    <div className="md:flex md:justify-around">
         <div className="px-10 py:10 md:py-20">
             <h1 className="text-4xl md:text-6xl">
                 Web Design & Development Company
