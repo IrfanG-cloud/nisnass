@@ -7,8 +7,8 @@ import Footer from './components/layout/footer/page'
 export default function Home() {
   return (
     <main className="">
-      <Header />
-      <Content />
+      {/* <Header />
+      <Content /> */}
       <Footer />
     </main>
   )
