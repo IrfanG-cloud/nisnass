@@ -16,7 +16,7 @@ export default function SectionNine (){
                 </ul>
                 <Image src="webbyra.svg" width={700} height={400} alt="" />
             </div>
-            <div className="md:w-2/5 bg-purple-500 rounded-2xl px-10 md:mx-10 md:mt-0 mt-10">
+            <div className="md:w-2/5 bg-green-400 rounded-2xl px-10 md:mx-10 md:mt-0 mt-10">
             <h1 className="py-10 text-2xl font-bold">Your very own web agency in Stockholm</h1>
                 <p className="py-6 text-xl">
                 We probably know this better than you do. Otherwise you wouldnot be reading this. But you know your business better than we do. So, of course, the greatest happiness occurs when we combine this in a mix where we become your web department and your very own agency. You know, the ones that you can interrupt at any time with questions, ideas or lots of other fun.

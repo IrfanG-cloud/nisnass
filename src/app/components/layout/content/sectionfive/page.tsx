@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function SectionFive (){
  
   return (
-      <div className="bg-gradient-to-b from-gray-100 to-purple-300 md:flex px-10 pb-20">
+      <div className="bg-gradient-to-b from-white to-green-100 md:flex px-10 pb-20">
         <div className="md:w-1/2 px-4">
             <Link href="/">
             <Image src="/Telcred.png" width={600} height={400} alt="" className="pb-10"/>

@@ -3,11 +3,11 @@ import Image from "next/image"
 
 export default function Footer(){
     return (
-        <div className="px-10 py-20">
+        <div className="px-10 py-20 bg-green-500">
             <div className="">
                 <h1 className="text-xl font-bold text-center pb-10">Do you have a digital project underway? Please contact us.</h1>
                 <div className="md:flex md:justify-center pb-10">
-                    <button className="bg-[#FED072] hover:bg-[#32154b] text-[#32154b] hover:text-white py-2 px-12 rounded-full text-2xl">
+                    <button className="bg-[#e72828] py-4 hover:bg-white text-white hover:text-[#e72828] px-12 rounded-full text-2xl">
                         <Link href='/'> Contact Us</Link>
                     </button>
                 </div>

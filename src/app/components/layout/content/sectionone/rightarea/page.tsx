@@ -14,12 +14,12 @@ We build a good website. We get many people to visit the website. Then we make s
                 </div>
                 <div className="w-1/2 px-4">
                     <p>
-                    På marknadsföriska kallas våra tjänster för:
+                    At marketing risk, our services are called:
                     </p>
                     <ul className="text-md font-bold mt-10 ">
-                        <li className="pb-4">. Design och programmering</li>
-                        <li className="pb-4">. Mätning, anays och rapportering</li>
-                        <li className="pb-4">. Trafik och konvertering</li>
+                        <li className="pb-4">. Design and programming</li>
+                        <li className="pb-4">. Measurement, analysis and reporting</li>
+                        <li className="pb-4">. Traffic and conversion</li>
                         <li className="pb-4">. Marketing automation</li>
                     </ul>
                 </div>

@@ -10,7 +10,7 @@ export default function Left (){
             </h1>
             <Image src="/Google_Patents.png" width={200} height={200} alt="" className="my-10"/>
             <p>
-                Galax har varit en Google Partner sedan 2015.
+                Nisnass has been a Google Partner since 2015
             </p>
         </div>
     )}

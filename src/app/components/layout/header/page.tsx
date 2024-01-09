@@ -9,14 +9,14 @@ import Image from 'next/image';
 export default function Header(){
  
   return (
-      <header className='md:w-90% bg-[#FED072] '>
+      <header className='md:w-90% bg-green-500'>
         <div className="md:flex md:justify-between md:items-center py-2 px-6">
         <Logo />
         <Navbar />
         <Contact />
         </div>
         <Hero />
-        <Paterns />
+        {/* <Paterns /> */}
         <div className="px-10 ">
         <Image src="/galax1.png" width={1200} height={300} alt="" />
         </div>
