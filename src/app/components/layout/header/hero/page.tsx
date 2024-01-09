@@ -25,7 +25,7 @@ export default function Hero () {
             </div>
         </div> 
         <div className="mt-20">
-            <Image src="/galax2.png" width={600} height={400} alt="hero" />
+            <Image src="/galax2.png" width={800} height={400} alt="hero" />
         </div>
     </div>
   )
