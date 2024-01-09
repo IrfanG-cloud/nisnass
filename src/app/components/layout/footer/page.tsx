@@ -25,7 +25,7 @@ We are data and results driven and advocate building long-term value through mea
                 <div className="md:w-1/2">
                     <div>
                     <h1 className="text-4xl">Web Development & Design company Nisnass</h1>
-                    <div className="pt-10"><span>Galax (Great Nash AB)</span></div>
+                    <div className="pt-10"><span>Nisnass Digital Services</span></div>
                     <div className="pb-4"><span>Office.nummer 050-4474-063</span></div>
                     </div>
                     <div>
